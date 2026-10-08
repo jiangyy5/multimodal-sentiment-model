@@ -1,0 +1,8 @@
+{
+  "batch_size": 4,
+  "lr": 1e-05,
+  "dataset": "sims",
+  "context": false,
+  "video_cache_dir": "datasets/SIMS/video_cache/face32",
+  "grad_accum_steps": 1
+}
